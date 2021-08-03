@@ -12,10 +12,15 @@ make startup
 
 Connect to the postgres database if your want to inspect the db state.
 
-host:
-port: 
-username:
-password:
+host: localhost  
+port: 5432  
+username: superset  
+password: superset  
+database: superset  
+
+The following is a general overview of the superset schema.
+
+![images](./images/schema.png)
 
 ### References
 
