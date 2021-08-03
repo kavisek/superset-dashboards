@@ -8,6 +8,15 @@ Sample dashboard that can be used for performance monitoring.
 make startup
 ```
 
+### Connecting to the Databases
+
+Connect to the postgres database if your want to inspect the db state.
+
+host:
+port: 
+username:
+password:
+
 ### References
 
 - https://github.com/apache/superset
